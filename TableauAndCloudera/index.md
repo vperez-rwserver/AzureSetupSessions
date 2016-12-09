@@ -1,8 +1,8 @@
-# Cloudera and Tableau
+# Tableau and Cloudera
 
 ## 1. Spin Tableau Server
 
-1. Click the **+New** button from the portal, then type "tableau server" on the search box and click Tableau Server on the results. 
+1. Click the **+ New** button from the portal, then type "**tableau server**" on the search box and click Tableau Server on the results. 
 
 ![1](images/tableau1.png)
 
