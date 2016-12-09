@@ -4,11 +4,11 @@
 
 1. Click the **+ New** button from the portal, then type "**tableau server**" on the search box and click Tableau Server on the results. 
 
-![1](images/tableau1.png)
+![1](/images/tableau1.png)
 
 2. Click Create. 
 
-![2](images/tableau2.png)
+![2](/images/tableau2.png)
 
 3. In the Basics blade enter the following values:
     * Name: **tableauvm**
@@ -18,11 +18,11 @@
     * Resource group: select **Create new** and type **TableauRG**
     * Location: **\<Location nearest to you\>**
 
-![3](images/tableau3.png)
+![3](/images/tableau3.png)
 
 4. For virtual machine size, choose DS3 and click Select.
 
-![4](images/tableau4.png)
+![4](/images/tableau4.png)
 
 5. Leave defaults values on Settings blade, click OK.
 
@@ -40,7 +40,7 @@ Tableau Server will take around 5 minutes to spin up. Let's use this time to ens
 
 2. Find the Burn rate graphic on the Essentials blade, the value under "LEFT TO CAP" is the remaining credit. Must have at least $200 of credit to deploy a small cluster during the lab. 
 
-![5](images/tableau5.png)
+![5](/images/tableau5.png)
 
 ### Core Quota
 
