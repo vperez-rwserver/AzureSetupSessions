@@ -1,0 +1,6 @@
+{
+  "name": "Azuresetupsessions",
+  "tagline": "Documentation for Azure Hands-On Training Complimentary Microsoft Virtual 1:1 Set-up Sessions ",
+  "body": "# Azure Setup Sessions\r\nDocumentation for Azure Hands-On Training Complimentary Microsoft Virtual 1:1 Set-up Sessions \r\n\r\n## Links\r\n* [Tableau and Cloudera](TableauAndCloudera.md)\r\n* [How to request core quota increase](IncreaseCoreQuota.md)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
