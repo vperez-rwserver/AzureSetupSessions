@@ -20,3 +20,5 @@
 (**Example**: If "Current quota" says "20" and you are using 8 cores, you need to enter 8+64 = 72 here)
 
 * Fill up Contact options and click Create. Azure support will notify you when your quota has been increased. 
+
+**NOTE**: Some Azure subscriptions such as free trial don't allow increasing core quota. As a workaround you can get a Visual Studio Essentials subscription and [activate its free azure benefit here](https://azure.microsoft.com/en-us/pricing/member-offers/msdn-benefits-details/).

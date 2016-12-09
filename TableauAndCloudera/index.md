@@ -44,7 +44,7 @@ Tableau Server will take around 5 minutes to spin up. Let's use this time to ens
 
 ### Core Quota
 
-Follow the steps in [Increase core quota](IncreaseCoreQuota.md) to add 64 additional cores to your subscription.
+Follow the steps in [Increase core quota](https://vperez-rwserver.github.io/AzureSetupSessions/IncreaseCoreQuota) to add 64 additional cores to your subscription.
 
 **Note**: If Azure support asks for the reason behind the quota increase, tell them you need the extra cores to deploy a "Cloudera Enterprise Data Hub". 
 
