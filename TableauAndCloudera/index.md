@@ -4,15 +4,15 @@
 
 ## 1. Spin Tableau Server
 
-1. Click the **+ New** button from the portal, then type "**tableau server**" on the search box and click Tableau Server on the results. 
+1) Click the **+ New** button from the portal, then type "**tableau server**" on the search box and click Tableau Server on the results. 
 
 ![1](https://vperez-rwserver.github.io/AzureSetupSessions/images/tableau1.png)
 
-2. Click Create. 
+2) Click Create. 
 
 ![2](https://vperez-rwserver.github.io/AzureSetupSessions/images/tableau2.png)
 
-3. In the Basics blade enter the following values:
+3) In the Basics blade enter the following values:
     * Name: **tableauvm**
     * VM disk type: **SSD**
     * User Name: **labuser**
@@ -22,15 +22,15 @@
 
 ![3](https://vperez-rwserver.github.io/AzureSetupSessions/images/tableau3.png)
 
-4. For virtual machine size, choose DS3 and click Select.
+4) For virtual machine size, choose DS3 and click Select.
 
 ![4](https://vperez-rwserver.github.io/AzureSetupSessions/images/tableau4.png)
 
-5. Leave defaults values on Settings blade, click OK.
+5) Leave defaults values on Settings blade, click OK.
 
-6. Review summary and click OK.
+6) Review summary and click OK.
 
-7. Click Purchase.
+7) Click Purchase.
 
 ## 2. Ensure prerequisites
 
