@@ -13,7 +13,7 @@
 
 ![Increase quota 2 of 3](images/increasequota2.png)
 
-    * New quota: **Total number of cores needed (already used + extra needed)**
+* On New quota enter the **Total number of cores needed (already used + extra needed)**
 
 ![Increase quota 3 of 3](images/increasequota3.png)
 
