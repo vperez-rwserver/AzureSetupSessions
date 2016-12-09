@@ -44,26 +44,7 @@ Tableau Server will take around 5 minutes to spin up. Let's use this time to ens
 
 ### Core Quota
 
-1. On your subscription, click "New support request" at the bottom, then select the following values:
-    * Issue Type: **Quota**
-    * Quota Type: **Cores**
-
-![6](ClouderaAndTableau/step6.png)
-
-2. On the Problem blade, select the following values:
-    * Deployment model: **Resource Manager**
-    * Location: Same location selected for Tableau Server
-    * SKU family: Check **A Series** and **D Series**
-
-![7](ClouderaAndTableau/step7.png)
-
-* New quota: **Put a number here that gives you 64 available cores**
-
-![8](ClouderaAndTableau/step8.png)
-
-(**Example**: If "Current quota" says "20" and you are using 8 cores, you need to enter 8+64 = 72 here)
-
-3. Fill up Contact options and click Create. Azure support will notify you when your quota has been increased. 
+Follow the steps in [Increase core quota](IncreaseCoreQuota.md) to add 64 additional cores to your subscription.
 
 **Note**: If Azure support asks for the reason behind the quota increase, tell them you need the extra cores to deploy a "Cloudera Enterprise Data Hub". 
 
